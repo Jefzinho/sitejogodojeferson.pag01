@@ -1,0 +1,52 @@
+.imagem1
+{
+transition: all 3s;
+cursor: pointer;
+background-repeat: no-repeat;
+}
+
+
+ 
+
+body{
+ background: url('img/Gaming-PNG-Photo.png');  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: cover ;
+  max-width: 100wh ;
+  padding: 0;
+  margin: 0;
+  background-color: blueviolet;
+  background-repeat: no-repeat;
+}
+ *{
+ padding: 0;
+ margin: 0;  
+box-sizing: border-box;
+}
+.texto{
+ width: 70%;
+ margin: 0 auto;
+ background-color: rgb(117, 3, 151);
+ border: 5px solid rgb(42, 3, 105);
+}
+ 
+h1 {
+text-align: center;  
+}
+h2 {
+  text-align: center;
+}
+img {
+ display: block;  
+ margin: 0 auto;
+ background-repeat: no-repeat;
+ 
+ 
+}
+.texto2{
+  width: 50%;
+ margin: 0 auto;
+ background-color: rgb(117, 3, 151);
+ border: 5px solid rgb(42, 3, 105);
+}
